@@ -31,7 +31,7 @@ The system is composed of three critical microservices:
 
 ## Technical Architecture
 ### Key Components
-- **API Gateway**: Central entry point for all client requests
+- [**API Gateway**](https://github.com/faizeraza/ApiGateWay): Central entry point for all client requests
 - [**Service Registry (Eureka)**](https://github.com/faizeraza/ServiceRegistry): Dynamic service discovery and management
 - **Spring Security**: Robust authentication framework
 - [**Distributed Configuration Management**](https://github.com/faizeraza/micro-configuration-service): Centralized configuration server
@@ -46,7 +46,7 @@ The system is composed of three critical microservices:
 - **Languages**: Java, Spring Boot
 - **Service Discovery**: Netflix Eureka
 - **Authentication**: Spring Security, Okta
-- **Database**: Flexible (supports multiple database technologies)
+- **Database**: Flexible (supports multiple database technologies like, PostgreSQL, MySQL, MongoDB)
 - **API Management**: Spring Cloud Gateway
 
 ## Workflow Demonstration
