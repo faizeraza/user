@@ -4,6 +4,7 @@ In this exciting microservices project, I embarked on a comprehensive journey of
 
 The project is a testament to the complexity and elegance of microservices design, demonstrating how multiple independent services can seamlessly communicate and provide a robust, scalable solution for hotel ratings and user interactions.
 
+![WorkFlow](https://github.com/faizeraza/user/blob/main/src/main/resources/WorkFlow.png)
 ## Project Motivation
 The core motivation behind this project was to create a real-world application that:
 - Demonstrates advanced microservices architectural patterns
